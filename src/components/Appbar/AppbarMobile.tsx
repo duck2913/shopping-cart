@@ -44,7 +44,7 @@ const AppbarMobile = () => {
 						color: Colors.secondary,
 					}}
 				>
-					Hello
+					My Bags
 				</Typography>
 				<IconButton edge="start" color="inherit" aria-label="menu">
 					<SearchIcon />

@@ -7,7 +7,7 @@ const AppbarDesktop = () => {
 	return (
 		<>
 			<AppbarContainer>
-				<AppbarHeader>Hello</AppbarHeader>
+				<AppbarHeader>My Bags</AppbarHeader>
 				<MyList type="row">
 					<ListItemText>Home</ListItemText>
 					<ListItemText>Category</ListItemText>
