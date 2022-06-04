@@ -2,6 +2,7 @@ import Box from "@mui/material/Box";
 import Container from "@mui/material/Container";
 import Appbar from "./components/Appbar/Appbar";
 import Banner from "./components/Banner/Banner";
+import Promotions from "./components/Promotions/Promotions";
 
 function App() {
 	return (
@@ -9,6 +10,7 @@ function App() {
 			<Container maxWidth="lg" sx={{ backgroundColor: "#fff" }}>
 				<Appbar />
 				<Banner />
+				<Promotions />
 			</Container>
 		</Box>
 	);
